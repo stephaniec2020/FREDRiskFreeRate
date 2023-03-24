@@ -1,4 +1,3 @@
-# FREDRiskFreeRate
 # FRED Risk Free Rate
 
 Fred Risk Free Rate Yield and Curve on Streamlit App
